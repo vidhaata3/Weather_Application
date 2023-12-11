@@ -46,6 +46,6 @@ Contributions are welcome! If you find a bug or have an enhancement in mind, fee
 
 This project is licensed under the [MIT License](LICENSE).
 
-Archana Kumari
+
 
 Happy coding! 🚀
